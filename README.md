@@ -61,7 +61,7 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sugata-karmakar0001/sugata-karmakar0001/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sugata-karmakar0001/sugata-karmakar0001/main/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
